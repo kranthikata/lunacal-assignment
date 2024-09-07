@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lunacal-assignment/static/css/main.b06b7ab8.css",
+    "main.js": "/lunacal-assignment/static/js/main.18690d7e.js",
+    "index.html": "/lunacal-assignment/index.html",
+    "main.b06b7ab8.css.map": "/lunacal-assignment/static/css/main.b06b7ab8.css.map",
+    "main.18690d7e.js.map": "/lunacal-assignment/static/js/main.18690d7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b06b7ab8.css",
+    "static/js/main.18690d7e.js"
+  ]
+}
